@@ -1,0 +1,27 @@
+td{vertical-align:top;}
+.p_author_face{border-right:6px solid #2196F3;background-color:#d6ecfa;border-radius: 30px;}
+.p_author_face img{border-radius: 30px;margin-top: 5%;height: 110px;width: 110px;}
+.j_user_cardlzl_p_p img{border-radius: 30px;} 
+.msg{text-align: right;margin-bottom: 1%;color:#b3b3b3}
+.mpic{display:inline;}
+.mpic a img{height:30px;width:30px;border: 1px;border-radius:10px;margin-top: 1%;margin-left: 1%;}
+.mtime{text-align: right;margin-bottom: 1%;color:#b3b3b3}
+.mall{margin-top: 1%;}
+.mcon{display: inline;}
+.first-p{width:10%;height: auto;
+    text-align: center;margin-top:5%;}
+.second-p{width:80%;margin-left: 10px;}
+.review{background-color:#f2efef;border-radius: 10px;overflow-y:auto;height:10px;}
+table{width: 100%;}
+hr{height:2px;padding:0;margin:16px 0;background-color:#e7e7e7;border:0 none;overflow:hidden;box-sizing:content-box}
+a{text-decoration:none;color: black;}
+
+
+@media screen and (orientation:portrait) {
+.d_post_content j_d_post_content{font-size: 30px;font-weight: bold;}
+h4{font-size: 40px;font-weight: bold;}
+}
+/*定义横屏 css*/
+@media screen and (orientation:landscape) {
+
+}
