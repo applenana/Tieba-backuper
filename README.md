@@ -1,0 +1,2 @@
+# Tieba-backuper
+基于playwright实现防ip封禁，使用百度mobileweb端api快速爬取楼中楼，支持伪多线程的高效备份器
